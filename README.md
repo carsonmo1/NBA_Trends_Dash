@@ -8,7 +8,7 @@ An interactive dashboard exploring how the NBA has transformed over three decade
 
 ## Live Demo
 
-🏀 **[View Live Dashboard]([https://your-app-name.onrender.com](https://nba-trends-dash.onrender.com))** *(Update this link after deployment)*
+🏀 **[View Live Dashboard][https://your-app-name.onrender.com](https://nba-trends-dash.onrender.com)** *(Update this link after deployment)*
 
 ## Overview
 
